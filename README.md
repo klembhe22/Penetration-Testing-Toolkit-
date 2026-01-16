@@ -63,9 +63,6 @@ After each scan, the toolkit returns to the main menu:
 This proves that the toolkit is modular, interactive, and easy to use.
 
 
-Output:
-
-
 
 FINAL SUMMARY
 
@@ -73,3 +70,4 @@ The project successfully demonstrates a complete Penetration Testing Toolkit wit
 
 
 Output:
+<img width="908" height="791" alt="Image" src="https://github.com/user-attachments/assets/2db6383e-5264-49ad-a7a4-91d89c6d82bc" />
